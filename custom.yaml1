@@ -1,0 +1,1 @@
+train: dataset/train.txtval: dataset/test.txt# number of classesnc: 2# class namesnames: ['0','1']
